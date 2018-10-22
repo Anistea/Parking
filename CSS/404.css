@@ -1,0 +1,8 @@
+.404{
+    padding: 0;
+    margin: 0;
+    background: url(../pages/erreur404.PNG);
+    width: 1280px;
+    height: 720px;
+    background-size: cover;
+}
